@@ -1,1 +1,0 @@
-# gradle-cpp-model-builder
